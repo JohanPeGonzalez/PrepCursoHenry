@@ -1,2 +1,1 @@
-# PrepCursoHenry
-Repositorio Modulo 2
+Este proyecto es una prueba de crear repositorio y enviarlo a github
